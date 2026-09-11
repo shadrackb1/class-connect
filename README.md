@@ -1,10 +1,8 @@
-﻿# class connect
+# Class Connect
 
-Smart Biometric Attendance System
+<img src="./assets/header.svg" width="100%" alt="Class Connect" />
 
-## Stack
-
-react Â· next Â· vite Â· typescript Â· tailwindcss Â· supabase Â· node
+Secure academic engagement platform with biometric attendance.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· next Â· vite Â· typescript Â· tailwindcss Â· supabase Â· no
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
